@@ -11,3 +11,11 @@ NumPy (Numerical Python) is a powerful library for numerical computing in Python
 - Mathematical and statistical functions  
 - Linear algebra operations  
 - Random number generation  
+- Broadcasting  
+
+## Topics to Learn
+- Importing NumPy  
+- Creating arrays  
+- Array operations  
+- Matrix operations  
+- Statistical functions  
